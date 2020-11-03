@@ -1,0 +1,6 @@
+student\exam 1 2 3 4 5
+bogoyavlensky 3 4 5 4 5
+rud 2 2 2 2 2
+nesterenkov 2 3 4 5 4
+klimov 5 5 5 5 5
+maralov 5 4 5 2 5
